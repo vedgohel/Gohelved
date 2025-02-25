@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved Gohel</h1>
-# 💫 About Me:
+💫 About Me:
 Hi there! I'm Ved Gohel, a passionate Computer Science Engineering student at Government Engineering College, Patan.<br>I love exploring the world of web development and continuously enhancing my skills.<br>I Enjoy web design and problem solving and building projects that creative frameworks and library.<br><br>
 
 
